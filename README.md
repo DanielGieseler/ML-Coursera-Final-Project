@@ -1,1 +1,1 @@
-# ML-Coursera-Final-Project
+Final Project of Machine Learning with Python, by IBM, at Coursera
